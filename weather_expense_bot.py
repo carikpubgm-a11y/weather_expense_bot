@@ -1,3 +1,7 @@
+# pyTelegramBotAPI
+# requests
+# sqlite3
+
 import telebot
 import requests
 import sqlite3
