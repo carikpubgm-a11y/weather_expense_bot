@@ -1,2 +1,4 @@
 # weather_expense_bot
-telegram bot obhavo va valyuta harajatlar funksiyalari bilan
+# weather_expense_bot
+# weather_expense_bot
+# weather_expense_bot
